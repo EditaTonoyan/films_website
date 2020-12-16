@@ -1,0 +1,48 @@
+body{
+	background-color:powderblue;
+}
+h1{
+	color:red;
+	text-align: center;
+}
+
+a:link{
+	color:blue;
+
+}
+a:visited{
+	color:red;
+}
+a:hover{
+		color:yellow;
+}
+
+img {
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: 5px;
+	width: 150px;
+  }
+
+
+#l01{
+	list-style-type:square;
+}
+#l02{
+	list-style-type:disc;
+}
+#l03{
+	list-style-type:circle;
+}
+
+.card, .card .image {
+    position: relative;
+}
+
+ .h2{
+    font-size: 26px;
+    line-height: 30px;
+    font-weight: 300;
+    margin-top: 24px;
+    margin-bottom: 12px;
+}
